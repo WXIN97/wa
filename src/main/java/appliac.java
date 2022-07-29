@@ -9,6 +9,7 @@ public class appliac {
         System.out.println("************");
         System.out.println("************");
         System.out.println("************");
+        System.out.println("***********呜呜呜呜*");
         int a;
     }
 }
